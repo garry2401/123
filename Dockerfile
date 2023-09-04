@@ -1,6 +1,6 @@
-FROM ubuntu
+FROM centos:7
 
-MAINTAINER sofija
+MAINTAINER gaurav
 
 RUN apt-get update
 
